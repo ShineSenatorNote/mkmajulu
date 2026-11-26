@@ -1,0 +1,23 @@
+{
+  "repo": "multicommander-tabbed-file-manager",
+  "product": "MultiCommander Tabbed File Manager",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "multicommander-tabbed-file",
+    "multicommander-tabbed",
+    "how-to-install-multicommander-tabbed",
+    "how-to-setup-multicommander-tabbed",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "multicommander-file",
+    "file-management"
+  ],
+  "site": "unaflore.co",
+  "product_title": "MultiCommander Tabbed File Manager"
+}
